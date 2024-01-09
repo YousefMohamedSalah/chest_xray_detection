@@ -1,4 +1,4 @@
-# chest_xray_detection
+# Chest X-ray Detection
 
 ## Introduction
 million people worldwide are suffering from Pneumonia which results in the death of 4 million people every year.
